@@ -11,11 +11,12 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_forest](./speedrun_forest) | 1 | 2025-09-15 |
 | [speedrun_herb](./speedrun_herb) | 1 | 2025-09-15 |
 | [speedrun_jeans](./speedrun_jeans) | 1 | 2025-09-15 |
+| [speedrun_muhaha](./speedrun_muhaha) | 1 | 2025-09-17 |
 | [speedrun_revived_open_v2](./speedrun_revived_open_v2) | 1 | 2025-09-15 |
 | [speedrun_revived_v2](./speedrun_revived_v2) | 1 | 2025-09-15 |
 
 ---
 
 ### Statistics
-- Total Maps: **7**
-- Total Demos: **7**
+- Total Maps: **8**
+- Total Demos: **8**
