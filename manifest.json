@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "a8e593e7d41bcd782193fa5d552bb17aa583afe8cefa66beceaa3d4e5628d2dd",
+    "uid": "RSE9KE8A1",
+    "map": "speedrun_ramp-master_ex",
+    "category": 9,
+    "time": 6342,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2026-01-29T13:36:55.000Z",
+    "zipFilename": "00006342_STEAM_0_0_35544084_20260129-133655.zip",
+    "path": "speedrun_ramp-master_ex/00006342_STEAM_0_0_35544084_20260129-133655.zip",
+    "archivedAt": "2026-01-29T18:00:13.052Z"
+  },
+  {
     "demFileHash": "4fe889d42d6803d8ff2de382b3d4d335404e5d068abcf2364effdee731ba836f",
     "uid": "76T718Z5N",
     "map": "deathrun_arctic",
