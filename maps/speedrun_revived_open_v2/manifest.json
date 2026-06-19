@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_revived_open_v2",
+  "updatedAt": "2026-06-19T05:58:34.357802Z",
+  "runs": [
+    {
+      "uid": "MQ93IB86V",
+      "rid": 657,
+      "hash": "a27e22e0f59d28f7e804cb8090a3ed1ffd2a6aadde743292a03520fb3049045d",
+      "t": 7435,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2025-09-15T09:17:38Z",
+      "zip": "00007435_STEAM_0_1_771348382_20250915-091738.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_revived_open_v2-20250915-#MQ93IB86V.analysis.json",
+          "off": 88,
+          "size": 417453
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_revived_open_v2-20250915-#MQ93IB86V.dem",
+          "off": 417619,
+          "size": 145465
+        },
+        {
+          "type": "replay",
+          "name": "657.replay.xz",
+          "off": 563127,
+          "size": 61640
+        }
+      ]
+    }
+  ]
+}

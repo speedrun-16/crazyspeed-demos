@@ -1,0 +1,29 @@
+{
+  "map": "speedrun_chemical_maxfps",
+  "updatedAt": "2026-06-19T05:58:34.357802Z",
+  "runs": [
+    {
+      "uid": "TQUZ13072",
+      "rid": 4725,
+      "hash": "d586d08cdf56a9d760ec7e80210d3a980a22875699072ab22458c14408521df9",
+      "t": 4467,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2025-09-22T10:32:01Z",
+      "zip": "00004467_STEAM_0_1_29970948_20250922-103201.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_chemical_maxfps-20250922-#TQUZ13072.analysis.json",
+          "off": 88,
+          "size": 24762
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_chemical_maxfps-20250922-#TQUZ13072.dem",
+          "off": 24928,
+          "size": 93778
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_chemicalz",
+  "updatedAt": "2026-06-19T05:58:34.357802Z",
+  "runs": [
+    {
+      "uid": "DERI3NGFZ",
+      "rid": 974,
+      "hash": "e908341ac804536ffbb0edc3f9d244e32d7224d444e01f01e0e1ff2b566c9419",
+      "t": 8053,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2025-09-15T13:37:40Z",
+      "zip": "00008053_STEAM_0_1_771348382_20250915-133740.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_chemicalz-20250915-#DERI3NGFZ.analysis.json",
+          "off": 82,
+          "size": 460332
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_chemicalz-20250915-#DERI3NGFZ.dem",
+          "off": 460486,
+          "size": 146979
+        },
+        {
+          "type": "replay",
+          "name": "974.replay.xz",
+          "off": 607508,
+          "size": 56936
+        }
+      ]
+    }
+  ]
+}

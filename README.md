@@ -1,30 +1,23 @@
-# Category Archive: Crazy Speed
+# Crazy Speed Demo Archive
 
-This repository is a structured archive for personal best demos achieved in the **Crazy Speed** category.
+Personal best demo archive for the Crazy Speed category.
 
-## Map List
+## Statistics
 
-| Map Name | Demos | Last Updated |
-| :--- | :---- | :--- |
-| [deathrun_arctic](./deathrun_arctic) | 1 | 2025-12-20 |
-| [speedrun_bieber](./speedrun_bieber) | 1 | 2025-11-11 |
-| [speedrun_chemical](./speedrun_chemical) | 1 | 2025-09-15 |
-| [speedrun_chemical_maxfps](./speedrun_chemical_maxfps) | 1 | 2025-09-22 |
-| [speedrun_chemicalz](./speedrun_chemicalz) | 1 | 2025-09-15 |
-| [speedrun_forest](./speedrun_forest) | 1 | 2025-09-15 |
-| [speedrun_grasz_final](./speedrun_grasz_final) | 1 | 2025-11-21 |
-| [speedrun_herb](./speedrun_herb) | 1 | 2025-09-15 |
-| [speedrun_jeans](./speedrun_jeans) | 1 | 2025-09-15 |
-| [speedrun_muhaha](./speedrun_muhaha) | 1 | 2025-09-17 |
-| [speedrun_noob](./speedrun_noob) | 2 | 2026-06-04 |
-| [speedrun_raduga_fix](./speedrun_raduga_fix) | 1 | 2025-11-11 |
-| [speedrun_ramp-master_ex](./speedrun_ramp-master_ex) | 1 | 2026-01-29 |
-| [speedrun_revived_open_v2](./speedrun_revived_open_v2) | 1 | 2025-09-15 |
-| [speedrun_revived_v2](./speedrun_revived_v2) | 1 | 2025-09-15 |
-| [speedrun_runners](./speedrun_runners) | 1 | 2026-03-24 |
+| Metric | Value |
+| :-- | --: |
+| Maps | 16 |
+| Archived PBs | 17 |
+| Latest Update | 2026-06-04 |
 
----
+## Structure
 
-### Statistics
-- Total Maps: **16**
-- Total Demos: **17**
+| Path | Contents |
+| :-- | :-- |
+| `manifest.json` | Repository summary and per-map manifest pointers |
+| `maps/<map>/manifest.json` | Runs archived for one map |
+| `maps/<map>/*.zip` | Demo archive files |
+
+## Access
+
+Use `manifest.json` as the entry point. Each map manifest contains archive filenames and byte ranges for files inside each zip.

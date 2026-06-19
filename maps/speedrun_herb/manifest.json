@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_herb",
+  "updatedAt": "2026-06-19T05:58:34.357802Z",
+  "runs": [
+    {
+      "uid": "6G6VAUP2Z",
+      "rid": 656,
+      "hash": "dffd33879a282458406526adfff29a828b3137fd99de0ef0a55ba669d56e5380",
+      "t": 7061,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2025-09-15T08:57:27Z",
+      "zip": "00007061_STEAM_0_1_771348382_20250915-085727.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_herb-20250915-#6G6VAUP2Z.analysis.json",
+          "off": 77,
+          "size": 432245
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_herb-20250915-#6G6VAUP2Z.dem",
+          "off": 432389,
+          "size": 146660
+        },
+        {
+          "type": "replay",
+          "name": "656.replay.xz",
+          "off": 579092,
+          "size": 55268
+        }
+      ]
+    }
+  ]
+}
