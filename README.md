@@ -6,9 +6,9 @@ Personal best demo archive for the Crazy Speed category.
 
 | Metric | Value |
 | :-- | --: |
-| Maps | 16 |
-| Archived PBs | 17 |
-| Latest Update | 2026-06-04 |
+| Maps | 17 |
+| Archived PBs | 18 |
+| Latest Update | 2026-07-18 |
 
 ## Structure
 
