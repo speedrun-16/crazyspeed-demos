@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_furame",
+  "updatedAt": "2026-07-26T18:00:10.205Z",
+  "runs": [
+    {
+      "uid": "YTAUMJJ73",
+      "rid": 75395,
+      "hash": "b572dbf10883b682f5a7b27c500492709bc0171d43224aa8f583c143d17034db",
+      "t": 8523,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2026-07-26T12:43:13.000Z",
+      "zip": "00008523_STEAM_0_0_35544084_20260726-124313.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_furame-20260726-#YTAUMJJ73.dem",
+          "off": 69,
+          "size": 168584
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_furame-20260726-#YTAUMJJ73.analysis.json",
+          "off": 168732,
+          "size": 605688
+        },
+        {
+          "type": "replay",
+          "name": "75395.replay.xz",
+          "off": 774465,
+          "size": 60032
+        }
+      ]
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "category": 9,
   "categoryName": "Crazy Speed",
-  "updatedAt": "2026-07-18T18:00:15.926Z",
+  "updatedAt": "2026-07-26T18:00:10.205Z",
   "maps": {
     "speedrun_forest": {
       "n": 1,
@@ -50,6 +50,12 @@
       "best": 10960,
       "at": "2025-09-15T09:21:18Z",
       "manifest": "maps/speedrun_jeans/manifest.json"
+    },
+    "speedrun_furame": {
+      "n": 1,
+      "best": 8523,
+      "at": "2026-07-26T12:43:13.000Z",
+      "manifest": "maps/speedrun_furame/manifest.json"
     },
     "speedrun_muhaha": {
       "n": 1,
