@@ -1,7 +1,7 @@
 {
   "category": 9,
   "categoryName": "Crazy Speed",
-  "updatedAt": "2026-09-20T18:00:03.836Z",
+  "updatedAt": "2026-09-21T00:00:15.953Z",
   "maps": {
     "speedrun_forest": {
       "n": 1,
@@ -35,8 +35,8 @@
     },
     "speedrun_1000fps_battle": {
       "n": 1,
-      "best": 4775,
-      "at": "2026-09-20T17:52:06.000Z",
+      "best": 4751,
+      "at": "2026-09-20T18:04:50.000Z",
       "manifest": "maps/speedrun_1000fps_battle/manifest.json"
     },
     "speedrun_tr": {
