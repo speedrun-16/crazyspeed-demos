@@ -6,9 +6,9 @@ Map-level archive directory for the Crazy Speed category.
 
 | Metric | Value |
 | :-- | --: |
-| Maps | 19 |
-| Archived PBs | 20 |
-| Latest Update | 2026-09-20 |
+| Maps | 20 |
+| Archived PBs | 21 |
+| Latest Update | 2026-11-16 |
 
 ## Structure
 
